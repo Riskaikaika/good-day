@@ -1,1 +1,2 @@
 # good-day
+have a nice day
